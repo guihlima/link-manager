@@ -53,13 +53,13 @@ body{
     }
 
     #area-user #user-description #img-area #home__blob{
-        fill: #FFF;
+        fill: #2f7a93;
         
         /* background-image: url('../images/pic-1.png'); */
     }
 
     #area-user #user-description #img-area #home__blob-img{
-        width: 200px;
+        width: 150px;
     }
 
     #area-user #user-photo{
