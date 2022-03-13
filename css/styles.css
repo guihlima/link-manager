@@ -54,7 +54,7 @@ body{
 
     #area-user #user-description #img-area #home__blob{
         fill: #2f7a93;
-        
+        width: 70%;
         /* background-image: url('../images/pic-1.png'); */
     }
 
@@ -152,7 +152,7 @@ body{
 
     #area-user #user-description #img-area #home__blob{
         fill: #2f7a93;
-        
+        width: 70%;
         /* background-image: url('../images/pic-1.png'); */
     }
 
